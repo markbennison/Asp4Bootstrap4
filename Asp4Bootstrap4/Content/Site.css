@@ -36,3 +36,16 @@ input[type="select"] {
         padding: 0;
     }
 }
+
+/* Custom CSS */
+
+.navbar-brand {
+	margin-top: -0.5rem;
+	margin-bottom: -0.5rem;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+	.navbar-brand img {
+		max-height: 50px;
+	}
